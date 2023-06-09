@@ -14,14 +14,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drians21&label=Profile%20views&color=0e75b6&style=flat" alt="drians21" /> </p>
 
 
-<!-- - 🌱 I’m currently learning **Spring Boot** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+<!-- - 🌱 I’m currently learning **text** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
-- 👨‍💻 Checkout my [ Portfolio ](https://nafisa1117.github.io/) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+- 👨‍💻 Checkout my [ Portfolio ]() &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1upTYp0vi86hM1M51ZgME-N2Pg4uZ4Kae/view?usp=sharing) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+- 📄 Know about my experiences [Resume]() &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
-- 📫 How to reach me **arshirayeen700@gmail.com**  &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp"> -->
+- 📫 How to reach me **text**  &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp"> -->
 
 
 
