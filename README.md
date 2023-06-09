@@ -6,8 +6,8 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drians21" alt="drians21" /></a> </p> -->
 
-
-<img align = "right" width="300" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
+<p></p>
+<img align = "right" width="250" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drians21&label=Profile%20views&color=0e75b6&style=flat" alt="drians21" /> </p>
