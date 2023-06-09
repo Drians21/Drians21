@@ -30,9 +30,8 @@
 <h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center"></h3>
 <p align="left">
 <a href="https://instagram.com/adriansptra21_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adriansptra21_" height="30" width="40" /></a>
-</p>
-<p align="left">
-<a href="https://www.linkedin.com/in/adriansaputra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="adriansaputra" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/adrian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adriansaputra" height="30" width="40" /></a> -->
+<a href="https://linkedin.com/in/adriansaputra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adriansaputra" height="30" width="40" /></a>
 </p>
 
 
