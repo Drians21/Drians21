@@ -29,5 +29,5 @@
 
 | Top Languages | Contribution Graph  |
 | :--- | --- |
-| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=drians21&show_icons=true&theme=cobalt" alt="Adrians's Language stats" /> | [![Adrians's github activity graph](https://activity-graph.herokuapp.com/graph?username=drians21&custom_title=This%20is%20a%20title&hide_border=true&theme=gruvbox)](https://github.com/Nafisa1117/github-readme-activity-graph) |
+| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=drians21&show_icons=true&theme=cobalt" alt="Adrians's Language stats" /> | [![Adrians's github activity graph](https://activity-graph.herokuapp.com/graph?username=drians21&custom_title=This%20is%20a%20title&hide_border=true&theme=gruvbox)](https://github.com/drians21/github-readme-activity-graph) |
 
