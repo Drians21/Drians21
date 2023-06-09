@@ -52,3 +52,13 @@
 | :--- |
 | <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=drians21&show_icons=true&theme=cobalt" alt="Adrians's Language stats" /> |
 
+<div aling="left">
+ 
+<h2>&nbsp; Some Programming Humor for you <img align ='left' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+  </div>
+
+
+<br>
+
