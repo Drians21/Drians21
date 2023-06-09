@@ -1,6 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4D16AQFXA2-3kJGfUA/profile-displaybackgroundimage-shrink_200_800/0/1616100263737?e=2147483647&v=beta&t=QppRspst78_r6J46BiTwwD9Fq0PL1RMrquu6Usq-fAM)
 <h1 align="center">Hi 👋, I'm Adrian Saputra</h1>
 <h3 align="center">Interested in the field of data</h3>
+<img align="center" alt="cat" width="400" src="https://www.bing.com/images/create/buat-sebuah-image-seekor-kucing-sedang-bermain-lap/6483344e4f954447af772120b48cee27?id=vd62uNt5PFgLsInEBU8GHw%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay">
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drians21" alt="drians21" /></a> </p> -->
 
