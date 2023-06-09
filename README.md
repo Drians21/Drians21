@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/C4D16AQFXA2-3kJGfUA/profile-displaybackgroundimage-shrink_200_800/0/1616100263737?e=2147483647&v=beta&t=QppRspst78_r6J46BiTwwD9Fq0PL1RMrquu6Usq-fAM)
+![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
 <h1 align="center">Hi 👋, I'm Adrian Saputra</h1>
 <h3 align="center">Interested in the field of data</h3>
 <p align="center"><img alt="cat" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"></p>
