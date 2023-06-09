@@ -20,7 +20,7 @@
 
   | Github Stats | Current Strek  |
 | --- | --- |
-| ![Adrians's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nafisa1117&show_icons=true&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=drians21&theme=tokyonight)](https://git.io/streak-stats) |
+| ![Adrians's GitHub stats](https://github-readme-stats.vercel.app/api?username=drians21&show_icons=true&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=drians21&theme=tokyonight)](https://git.io/streak-stats) |
 
 
 <!-- Theme color -->
