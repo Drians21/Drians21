@@ -1,4 +1,4 @@
-![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
+<!--![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)-->
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'>, I'm Adrian Saputra</h1>
 <h3 align="center">I'm Interested in data</h3>
 <h2 align="center"><img alt="cat" width="200" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif"></h2>
