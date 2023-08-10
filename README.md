@@ -10,4 +10,4 @@
   - Exploring and research about Data
 
 - 📫 Connect with me
-  - :link:https://www.linkedin.com/in/adriansaputra/
+  - :link: https://www.linkedin.com/in/adriansaputra/
